@@ -9,6 +9,9 @@ Aqui você vai encontrar meus projetos, aprendizados e experiências!
 - Excel avançado
 - Figma
 
+## 📌 Projetos em destaque:
+- [Analise de Desempenho e Satisfação](https://github.com/KarineGomesz/People-analytics) - Analise feita para identificar padrões de desempenho, turnover e retenção de funcionários.
+
 ## 📫 Entre em contato comigo:
-- WhatsApp: (11) 98988-4963 - https://api.whatsapp.com/send/?phone=5511989884963&text&type=phone_number&app_absent=0
-- LinkedIn: Karine Gomes - Perfil - https://www.linkedin.com/in/karine-gomes-2001/
+- WhatsApp: [(11) 98988-4963](https://api.whatsapp.com/send/?phone=5511989884963&text&type=phone_number&app_absent=0)
+- LinkedIn: [Karine Gomes](https://www.linkedin.com/in/karine-gomes-2001/)
