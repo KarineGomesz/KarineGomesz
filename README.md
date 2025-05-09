@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá! Eu sou a Karine 👋
 
-<!--
-**KarineGomesz/KarineGomesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante na area de analise de dados! Estou sempre em uma busca constante por evolução para alcançar os meus objetivos.
+Aqui você vai encontrar meus projetos, aprendizados e experiências!
 
-Here are some ideas to get you started:
+## 🌱 Tecnologias que tenho experiência:
+- Power BI
+- SQL
+- Excel avançado
+- Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Me encontre por aqui:
+- WhatsApp: (11) 98988-4963 - https://api.whatsapp.com/send/?phone=5511989884963&text&type=phone_number&app_absent=0
+- LinkedIn: Karine Gomes - Perfil - https://www.linkedin.com/in/karine-gomes-2001/
