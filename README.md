@@ -1,6 +1,7 @@
 ## Olá! Eu sou a Karine 👋
 
-Estudante na area de analise de dados! Estou sempre em uma busca constante por evolução para alcançar os meus objetivos.
+Profissional com +4 anos na área administrativa e foco em dados. Experiência em controle financeiro, contratos, SAP e apoio à gestão com visão analítica. 
+Atualmente estou aprofundando meus estudos em análise de dados, aplicando SQL, Excel avançado e Power BI para transformar informações em soluções práticas.
 Aqui você vai encontrar meus projetos, aprendizados e experiências!
 
 ## 🌱 Tecnologias que tenho experiência:
